@@ -17,7 +17,7 @@ We are the Community.  All the contribute are welcome, all that they provide is 
 
 Have fun!  Play games!
 
-## [Playing the Game](<Playing the Game.md>)
+## [Playing the Game](<Playing the Game/Playing the Game - MOC.md>)
 
 This chapter is for Players.  It contains all the rules needed to play the game.  
 

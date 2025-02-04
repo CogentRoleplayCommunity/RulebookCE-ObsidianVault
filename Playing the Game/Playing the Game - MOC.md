@@ -6,10 +6,10 @@ The first and most important rule of *Cogent Roleplay* is; **The Story Comes Fir
 
 ## Character Sheet (This should be the link to the character sheet...)
 
-## [Character Creation](<Playing the Game/Character Creation.md>) 
+## [Character Creation](<Character Creation.md>) 
 
-## [Tier Progression](<Playing the Game/Tier Progression.md>) 
+## [Tier Progression](<Tier Progression.md>) 
 
 
-# [Next (Character Creation)](<Playing the Game/Character Creation.md>) 
-# [Back (README)](<README.md>)
+# [Next (Character Creation)](<Character Creation.md>) 
+# [Back (README)](<../README.md>)
