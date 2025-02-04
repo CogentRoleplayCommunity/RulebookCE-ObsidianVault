@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "565942436cfabbb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81858bad115e5b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc128313d6cf87a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LICENSE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cd72bc87df152838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434749ece020ecf0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/media/LocalDrives/SSD/Programs/Obsidian/RulebookCE-ObsidianVault",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/sh",
+                    "name": "",
+                    "platforms": {
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 83,
+                    "data": "$ git init\r\nInitialized empty Git repository in /media/LocalDrives/SSD/Programs/Obsidian/RulebookCE-ObsidianVault/.git/\r\n$ git add -A\r\n$ git remote add origin git@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git\r\n$ git remote -v\r\norigin\u001b[2Cgit@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git (fetch)\r\norigin\u001b[2Cgit@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git (push)\r\n$ git status\r\nOn branch main\r\n\r\nNo commits yet\r\n\r\nChanges to be committed:\r\n  (use \"git rm --cached <file>...\" to unstage)\r\n\u001b[8C\u001b[32mnew file:   .obsidian/app.json\r\n\u001b[8Cnew file:   .obsidian/appearance.json\r\n\u001b[8Cnew file:   .obsidian/community-plugins.json\r\n\u001b[8Cnew file:   .obsidian/core-plugins.json\r\n\u001b[8Cnew file:   .obsidian/graph.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/main.js\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/manifest.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/styles.css\r\n\u001b[8Cnew file:   .obsidian/workspace.json\r\n\u001b[8Cnew file:   LICENSE.md\r\n\u001b[8Cnew file:   README.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0m$ git add -A",
+                    "rows": 56
+                  }
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: sh"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0a0a8c09a719575",
+    "type": "split",
+    "children": [
+      {
+        "id": "b567c2cdf7e1d451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5d2e8d4924452d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "518fd1796f319539",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f3f1f1cfa2fd32b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b15de3bb6d6dab12",
+    "type": "split",
+    "children": [
+      {
+        "id": "1697ab794472e18b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e4b3e273c8f9ac6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d3316e84ac2de391",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f58ef4d292949162",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6177dbde07a7e99f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "434749ece020ecf0",
+  "lastOpenFiles": [
+    "LICENSE.md",
+    "Playing the Game.md",
+    "Welcome and Introduction.md",
+    "Tables and References.md",
+    "README.md",
+    "Running the Game.md",
+    "Feedback and Support.md",
+    "Cogent Community Charter.md",
+    "LICENSE",
+    "Images/CogentRoleplayAttribution_Wide.png",
+    "Images/CogentRoleplayAttribution_Stacked.png",
+    "Images",
+    "images",
+    "Welcome.md"
+  ]
+}
