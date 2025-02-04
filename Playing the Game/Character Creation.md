@@ -5,12 +5,10 @@ The Character Creation process is the standard method to create new Cogent Chara
 * **[Character Identity:](<Character Identity.md>)** Using a writer's tool, create your Character narratively.
 * **[Attributes:](<Attributes.md>)** Assign your Attribute Points.
 * **[Vocations:](<Vocations.md>)** Choose a Vocation, and Specialisations.
-* **Skills:** Assign your Skill Points to Core Skills and Specialisations.
-* **Purchase Equipment:** Assign Commerce Points, and purchase equipment (weapons, armour, tools, etc).
-* **Finishing Touches:** Assign Destiny Points, and Characteristics. Share your Character with your group and Narrator for approval.
+* **[Skills:](<Skills.md>)** Assign your Skill Points to Core Skills and Specialisations.
+* **[Purchase Equipment:](<Equipment.md>)** Assign Commerce Points, and purchase equipment (weapons, armour, tools, etc).
+* **[Finishing Touches:](<Finishing Touches.md>)** Assign Destiny Points, and Characteristics. Share your Character with your group and Narrator for approval.
 
 
 # [Next (Character Identity)](<Character Identity.md>) 
-
 # [Back (Playing the Game)](<Playing the Game - MOC.md>) 
-

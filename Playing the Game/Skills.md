@@ -33,7 +33,6 @@ Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Pro
 
 
 # [Next (Equipment)](<Equipment.md>) 
-
 # [Back (Vocations)](<Vocations.md>) 
 
 

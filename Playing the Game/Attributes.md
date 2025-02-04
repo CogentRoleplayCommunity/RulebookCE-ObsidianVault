@@ -14,7 +14,6 @@ Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Pro
 
 
 # [Next (Vocations)](<Vocations.md>) 
-
 # [Back (Character Identity)](<Character Identity.md>) 
 
 

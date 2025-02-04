@@ -12,7 +12,6 @@ Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, b
 
 
 # [Next (Skills)](<Skills.md>) 
-
 # [Back (Attributes)](<Attributes.md>) 
 
 

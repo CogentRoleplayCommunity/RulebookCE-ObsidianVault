@@ -26,7 +26,6 @@ Write a short story about your Character, what they did prior to the events of t
 
 
 # [Next (Attibutes)](<Attributes.md>) 
-
 # [Back (Character Creation)](<Character Creation.md>) 
 
 
