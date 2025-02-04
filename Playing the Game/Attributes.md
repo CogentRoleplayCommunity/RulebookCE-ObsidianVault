@@ -10,9 +10,12 @@ Within TTRPG games, an **Attribute** describes a Character's specific natural ch
 * **Intelligence (INT):** For mental interactions.
 * **Charisma (CHA):** For social interactions.
 
-Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Progression.md>)**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
 
 
-# [Next (Vocations)](<Playing the Game/Vocations.md>) 
+# [Next (Vocations)](<Vocations.md>) 
 
-# [Back (Character Identity)](<Playing the Game/Character Identity.md>) 
+# [Back (Character Identity)](<Character Identity.md>) 
+
+
+### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 
