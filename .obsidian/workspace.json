@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "Playing the Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "Playing the Game"
             }
           }
         ]
@@ -59,7 +59,7 @@
                   },
                   "serial": {
                     "columns": 83,
-                    "data": "$ git init\r\nInitialized empty Git repository in /media/LocalDrives/SSD/Programs/Obsidian/RulebookCE-ObsidianVault/.git/\r\n$ git add -A\r\n$ git remote add origin git@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git\r\n$ git remote -v\r\norigin\u001b[2Cgit@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git (fetch)\r\norigin\u001b[2Cgit@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git (push)\r\n$ git status\r\nOn branch main\r\n\r\nNo commits yet\r\n\r\nChanges to be committed:\r\n  (use \"git rm --cached <file>...\" to unstage)\r\n\u001b[8C\u001b[32mnew file:   .obsidian/app.json\r\n\u001b[8Cnew file:   .obsidian/appearance.json\r\n\u001b[8Cnew file:   .obsidian/community-plugins.json\r\n\u001b[8Cnew file:   .obsidian/core-plugins.json\r\n\u001b[8Cnew file:   .obsidian/graph.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/main.js\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/manifest.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/styles.css\r\n\u001b[8Cnew file:   .obsidian/workspace.json\r\n\u001b[8Cnew file:   LICENSE.md\r\n\u001b[8Cnew file:   README.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0m$ git add -A",
+                    "data": "$ git init\r\nInitialized empty Git repository in /media/LocalDrives/SSD/Programs/Obsidian/RulebookCE-ObsidianVault/.git/\r\n$ git add -A\r\n$ git remote add origin git@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git\r\n$ git remote -v\r\norigin\u001b[2Cgit@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git (fetch)\r\norigin\u001b[2Cgit@github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git (push)\r\n$ git status\r\nOn branch main\r\n\r\nNo commits yet\r\n\r\nChanges to be committed:\r\n  (use \"git rm --cached <file>...\" to unstage)\r\n\u001b[8C\u001b[32mnew file:   .obsidian/app.json\r\n\u001b[8Cnew file:   .obsidian/appearance.json\r\n\u001b[8Cnew file:   .obsidian/community-plugins.json\r\n\u001b[8Cnew file:   .obsidian/core-plugins.json\r\n\u001b[8Cnew file:   .obsidian/graph.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/main.js\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/manifest.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/styles.css\r\n\u001b[8Cnew file:   .obsidian/workspace.json\r\n\u001b[8Cnew file:   LICENSE.md\r\n\u001b[8Cnew file:   README.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0m$ git add -A\r\n$ git status\r\nOn branch main\r\n\r\nNo commits yet\r\n\r\nChanges to be committed:\r\n  (use \"git rm --cached <file>...\" to unstage)\r\n\u001b[8C\u001b[32mnew file:   .obsidian/app.json\r\n\u001b[8Cnew file:   .obsidian/appearance.json\r\n\u001b[8Cnew file:   .obsidian/community-plugins.json\r\n\u001b[8Cnew file:   .obsidian/core-plugins.json\r\n\u001b[8Cnew file:   .obsidian/graph.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/data.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/main.js\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/manifest.json\r\n\u001b[8Cnew file:   .obsidian/plugins/terminal/styles.css\r\n\u001b[8Cnew file:   .obsidian/workspace.json\r\n\u001b[8Cnew file:   Cogent Community Charter.md\r\n\u001b[8Cnew file:   Feedback and Support.md\r\n\u001b[8Cnew file:   Images/CogentRoleplayAttribution_Stacked.png\r\n\u001b[8Cnew file:   Images/CogentRoleplayAttribution_Wide.png\r\n\u001b[8Cnew file:   LICENSE.md\r\n\u001b[8Cnew file:   Playing the Game.md\r\n\u001b[8Cnew file:   README.md\r\n\u001b[8Cnew file:   Running the Game.md\r\n\u001b[8Cnew file:   Tables and References.md\r\n\u001b[8Cnew file:   Welcome and Introduction.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0m$ git commit -m \"Copied the existing rulebook into a new Obsidian vault.\"      \r\n[main (root-commit) 168a842] Copied the existing rulebook into a new Obsidian vault.\r\n 20 files changed, 1476 insertions(+)\r\n create mode 100644 .obsidian/app.json\r\n create mode 100644 .obsidian/appearance.json\r\n create mode 100644 .obsidian/community-plugins.json\r\n create mode 100644 .obsidian/core-plugins.json\r\n create mode 100644 .obsidian/graph.json\r\n create mode 100644 .obsidian/plugins/terminal/data.json\r\n create mode 100644 .obsidian/plugins/terminal/main.js\r\n create mode 100644 .obsidian/plugins/terminal/manifest.json\r\n create mode 100644 .obsidian/plugins/terminal/styles.css\r\n create mode 100644 .obsidian/workspace.json\r\n create mode 100644 Cogent Community Charter.md\r\n create mode 100644 Feedback and Support.md\r\n create mode 100644 Images/CogentRoleplayAttribution_Stacked.png\r\n create mode 100644 Images/CogentRoleplayAttribution_Wide.png\r\n create mode 100644 LICENSE.md\r\n create mode 100644 Playing the Game.md\r\n create mode 100644 README.md\r\n create mode 100644 Running the Game.md\r\n create mode 100644 Tables and References.md\r\n create mode 100644 Welcome and Introduction.md\r\n$ git push origin main\r\nEnumerating objects: 25, done.\r\nCounting objects: 100% (25/25), done.\r\nDelta compression using up to 12 threads\r\nCompressing objects: 100% (22/22), done.\r\nWriting objects: 100% (25/25), 613.38 KiB | 5.63 MiB/s, done.\r\nTotal 25 (delta 0), reused 0 (delta 0), pack-reused 0\r\nTo github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git\r\n * [new branch]      main -> main\r\n$ git add -A          \u001b[10D",
                     "rows": 56
                   }
                 }
@@ -67,6 +67,20 @@
               "pinned": true,
               "icon": "terminal",
               "title": "Terminal: sh"
+            }
+          },
+          {
+            "id": "7286919029dbf59d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playing the Game/Vocations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocations"
             }
           }
         ]
@@ -216,14 +230,25 @@
   },
   "active": "434749ece020ecf0",
   "lastOpenFiles": [
-    "LICENSE.md",
+    "Playing the Game/Vocations.md",
     "Playing the Game.md",
+    "Playing the Game/Attributes.md",
+    "Playing the Game/Character Identity.md",
+    "Playing the Game/Character Creation.md",
+    "Playing the Game/Playing the Game - MOC.md",
+    "README.md",
+    "Character Creation.md",
+    "Cogent Community Charter.md",
     "Welcome and Introduction.md",
     "Tables and References.md",
-    "README.md",
     "Running the Game.md",
+    "Running the Game.md.md",
     "Feedback and Support.md",
-    "Cogent Community Charter.md",
+    "Original Version",
+    "Running the Game.md 1.md",
+    "Running the Game",
+    "LICENSE.md",
+    "Playing the Game",
     "LICENSE",
     "Images/CogentRoleplayAttribution_Wide.png",
     "Images/CogentRoleplayAttribution_Stacked.png",
