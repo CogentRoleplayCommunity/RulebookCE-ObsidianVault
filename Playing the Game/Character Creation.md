@@ -13,3 +13,7 @@ $~~~$
 
 # [Next (Character Identity)](<Character Identity.md>) 
 # [Back (Playing the Game)](<Playing the Game - MOC.md>) 
+
+$~~~$
+
+### [Way Back (README)](<../README.md>) 
