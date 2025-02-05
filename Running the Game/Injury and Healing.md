@@ -15,8 +15,10 @@ When a Character takes damage they are given injuries.  Injuries are broken into
 
 Anytime a Character is injured, they must check if they [succeed or fail](<Success Failure.md>) an Endurance skill check vs the total of all injury levels the Character has.  If they will automatically fail, they fall unconscious.
 
-> Bob the boxer has endured through 6 grueling rounds, and has now been hit with a devastating uppercut.  
+> Bob the boxer has endured through 6 grueling rounds, and has now been hit with a devastating uppercut.
+> 
 > Bob previously had 2 Level 1 injuries, 1 Level 2 injury, and now has received a Level 3 injury.  Bob has a total of 7 injury levels (1 + 1 + 2 + 3).
+> 
 > Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 7CL, so Bob falls to the mat unconscious.
 
 #### Injury Category
