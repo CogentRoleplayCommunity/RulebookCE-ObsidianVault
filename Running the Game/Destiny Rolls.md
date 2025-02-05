@@ -12,8 +12,10 @@ Destiny Rolls are Pass/Fail rolls, and do not use the Narrative Success and Fail
 
 *Example*
 
-> King John's men are traveling through Sherwood Forest with the latest taxes.  They know that Robin Hood and his Merry Men are planning to ambush the convoy, but King John's men have devised several new paths through the forest.<br/>
-> The Narrator states that there is roughly a 75% chance that King John's men will hit one of the Merry Men's ambush points, but instead of rolling multiple navigation and perception skill checks, the Narrator decides to do a **Destiny Roll** instead.<br/>
+> King John's men are traveling through Sherwood Forest with the latest taxes.  They know that Robin Hood and his Merry Men are planning to ambush the convoy, but King John's men have devised several new paths through the forest.
+> 
+> The Narrator states that there is roughly a 75% chance that King John's men will hit one of the Merry Men's ambush points, but instead of rolling multiple navigation and perception skill checks, the Narrator decides to do a **Destiny Roll** instead.
+> 
 > Since the Players are part of the Merry Men, the Narrator sets the CL at 16 (100% - 75% = 25%) and rolls 13 (a close failure).  The convoy rolls right into the ambush, but their agitated state means they were not fully caught unaware.
 
 $~~~$
