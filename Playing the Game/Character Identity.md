@@ -10,7 +10,9 @@ Write down this Character Concept on your Character Sheet.
 
 ## Elevator Pitch
 
-Now that you have a Character Concept, imagine that you are pitching the idea to a movie/book publisher.  You have only the time it takes an elevator to travel to the publisher's floor (maybe 2 min max) so you need to be clear and engaging.  An example would be,
+Now that you have a Character Concept, imagine that you are pitching the idea to a movie/book publisher.  You have only the time it takes an elevator to travel to the publisher's floor (maybe 2 min max) so you need to be clear and engaging.
+An example would be:
+
 > Olga was an orc that was raised in a human town, and never fit in.  One day bandits came to raid her town, and she was there to stop them.  Now Olga is the protector of her town, and she is seeking allies to protect those she loves the most.
 
 Write your elevator Pitch on your Character Sheet.

@@ -16,10 +16,13 @@ If a Character has a **Dice Pool** that is greater than the CL, the Character is
 
 > Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Specialisation check.
 >
-> * Erin's Player calculates Erin's **Dice Pool** as 5D6.  3D6 (Base) + 1D6 (Intelligence) + 1D6 (Mage Vocation) + 1D6 (Sorcery)
-> * The Narrator reminds Erin's Player about their *Wand of Power* and tells them to add +1D6 to their **Dice Pool** for a total of 6D6.  Further to this, the Narrator tells them that the goblins are completely unaware of Erin's presence and they have *Advantage* on their **Dice Pool**.
-> * Using the *Cheatsheet* as a guide, the Narrator feels that the fireball (a powerful spell) would be a significant strain on an average Mage.  The Narrator uses a **Dice Pool** of 4D6 and a difficulty of 31% pass rate to generate a CL 3.
-> * Erin's Player rolls their dice and gets 1, 3, 3, 4, 4, and 5.  This generates 5 successes or a Narrative Success of +2.
+> Erin's Player calculates Erin's **Dice Pool** as 5D6.  3D6 (Base) + 1D6 (Intelligence) + 1D6 (Mage Vocation) + 1D6 (Sorcery)
+>
+> The Narrator reminds Erin's Player about their *Wand of Power* and tells them to add +1D6 to their **Dice Pool** for a total of 6D6.  Further to this, the Narrator tells them that the goblins are completely unaware of Erin's presence and they have *Advantage* on their **Dice Pool**.
+>
+> Using the *Cheatsheet* as a guide, the Narrator feels that the fireball (a powerful spell) would be a significant strain on an average Mage.  The Narrator uses a **Dice Pool** of 4D6 and a difficulty of 31% pass rate to generate a CL 3.
+>
+> Erin's Player rolls their dice and gets 1, 3, 3, 4, 4, and 5.  This generates 5 successes or a Narrative Success of +2.
 >
 > The fireball lands on the group of goblins and sets them all on fire.  The spell casting was so effective that the heat generated causes Medium Injuries (-2D6 Injury Penalty) to each of the goblins that are on fire.
 
