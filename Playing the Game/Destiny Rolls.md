@@ -15,8 +15,10 @@ The dice roll for the **Destiny Roll** must be equal or greater than the CL for 
 > The Narrator states that there is roughly a 75% chance that King John's men will hit one of the Merry Men's ambush points, but instead of rolling multiple navigation and perception skill checks, the Narrator decides to do a **Destiny Roll** instead.<br/>
 > Since the Players are part of the Merry Men, the Narrator sets the CL at 16 (100% - 75% = 25%) and rolls 13 (a close failure).  The convoy rolls right into the ambush, but their agitated state means they were not fully caught unaware.
 
+$~~~$
 
 # [Back (Destiny)](<Destiny.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

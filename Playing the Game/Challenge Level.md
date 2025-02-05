@@ -14,9 +14,11 @@ A *Challenge Level* (CL) is a representation of the difficulty of the a Dice Rol
 
 The consequences from a Dice Roll will varry from Dice Roll to Dice Roll, but will be relevant to the Action being performed.  The Narrator may indicate possible consequences to the Player prior to a Dice Roll.
 
+$~~~$
 
 # [Next (Success and Failure)](<Success Failure.md>) 
 # [Back (Calculate your Dice Pool)](<Calculate Dice Pool.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

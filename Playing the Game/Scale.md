@@ -16,9 +16,11 @@ If two or more Characters have a scale modifier, adjust the scale modifiers for 
 > The Ogre rolls Narrative Success of 0 and adds the +2 Scale modifier to get a total of Narrative Success of 2 (Level 2 Injury before Armour).
 > The Pixie rolls a Narrative Success of 1 and subtracts the +2 Scale modifier to get a total Narrative Success of 0 (Narrative Success can not be turned to Narrative Failure) and deals a Level 0 Injury before Armour.
 
+$~~~$
 
 # [Next (Destiny)](<Destiny.md>) 
 # [Back (Assists and Collaborations)](<Assists and Collaborations.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

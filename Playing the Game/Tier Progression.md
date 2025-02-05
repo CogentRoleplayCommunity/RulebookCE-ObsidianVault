@@ -34,9 +34,11 @@ The following chart details the **Character Creation** resources the Player will
 | 4 | 4 | 2 | 20 | 4 | 4 | 5 | 3/5 |
 | 5 | 5 | 2 | 24 | 4 | 4 | 6 | 5/5 |
 
+$~~~$
 
 # [Next (Dice Pools)](<Dice Pools.md>) 
 # [Back (Finishing Touches)](<Finishing Touches.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

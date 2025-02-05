@@ -23,9 +23,11 @@ If a Character has a **Dice Pool** that is greater than the CL, the Character is
 >
 > The fireball lands on the group of goblins and sets them all on fire.  The spell casting was so effective that the heat generated causes Medium Injuries (-2D6 Injury Penalty) to each of the goblins that are on fire.
 
+$~~~$
 
 # [Next (Assists and Collaborations)](<Assists and Collaborations.md>) 
 # [Back (Challenge Level)](<Challenge Level.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

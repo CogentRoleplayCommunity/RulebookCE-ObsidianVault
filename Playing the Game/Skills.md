@@ -31,9 +31,11 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 
 Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Progression.md>)**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
 
+$~~~$
 
 # [Next (Equipment)](<Equipment.md>) 
 # [Back (Vocations)](<Vocations.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

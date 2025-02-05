@@ -24,9 +24,11 @@ Write a short story about your Character, what they did prior to the events of t
 * Your Character's "Call to Quest" (the event that set them on the motion to becoming a Character in the Story).
 * Your Character's goal(s) in life (what do they want to be when they grow up?).
 
+$~~~$
 
 # [Next (Attibutes)](<Attributes.md>) 
 # [Back (Character Creation)](<Character Creation.md>) 
 
+$~~~$
 
 ### [Way Back (README)](<../README.md>) 

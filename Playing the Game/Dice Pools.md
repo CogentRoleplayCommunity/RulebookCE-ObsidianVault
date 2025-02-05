@@ -8,9 +8,11 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 ## [Assists and Collaborations](<Assists and Collaborations.md>) 
 ## [Scale](<Scale.md>) 
 
+$~~~$
 
 # [Next (Calculate your Dice Pool)](<Calculate Dice Pool.md>) 
 # [Back (Tier Progression)](<Tier Progression.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

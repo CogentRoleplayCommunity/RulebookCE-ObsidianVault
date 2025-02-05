@@ -11,9 +11,11 @@ Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Pro
 
 After your Character is done, share it with your Narrator and the other Players.  This gives the Group the ability to see your Character for the first time, and provide feedback.
 
+$~~~$
 
 # [Next (Tier Progression)](<Tier Progression.md>) 
 # [Back (Equipment)](<Equipment.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

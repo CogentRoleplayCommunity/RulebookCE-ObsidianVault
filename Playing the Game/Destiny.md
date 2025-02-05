@@ -26,9 +26,11 @@ Choose one per Destiny Point spent:
 
 ## [Destiny Rolls](<Destiny Rolls.md>) 
 
+$~~~$
 
 # [Next (Destiny Rolls)](<Destiny Rolls.md>) 
 # [Back (Scale)](<Scale.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

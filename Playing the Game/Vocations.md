@@ -10,9 +10,11 @@ Within **Cogent Roleplay**, **Vocations** fill the same role as Archetypes or Cl
 Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Progression.md>)**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specialisations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**.  
 Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, but the restriction for the maximum **VP** per **Vocation** remains.
 
+$~~~$
 
 # [Next (Skills)](<Skills.md>) 
 # [Back (Attributes)](<Attributes.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

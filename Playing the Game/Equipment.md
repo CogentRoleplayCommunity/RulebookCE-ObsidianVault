@@ -34,10 +34,11 @@ Depending on your starting **Tier** of play *(see **[Tier Progression](<Tier Pro
 | Risky Investor     | You have a habit of investing in risky opportunities.  So far it has paid off for you.                                  |
 | Employees          | You have employees that work for you.  If you do not support their CP, you will lose your CP.                           |
 
-
+$~~~$
 
 # [Next (Finishing Touches)](<Finishing Touches.md>) 
 # [Back (Skills)](<Skills.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

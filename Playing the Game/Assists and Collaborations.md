@@ -20,9 +20,11 @@ Many hands make quick work.  Within Cogent there are two methods that Characters
 > The Narrator states that if 4 Characters of average Athletics were to attempt this lift, it would be possible, but hard.  Looking at the *Cheatsheet*, a **Dice Pool** of 4D6 and a % chance to succeed of 31%, would set a CL 3.  The Narrator tells the group that the Collaboration CL is CL 3x4 or CL 12.<br/>
 > The Adventurers make their rolls and get 3, 2, 2, 3 Wins each for a total of 10 Wins or -2 Narrative Failure.  Since the combined **Dice Pools** of all the Adventurers is greater than the CL, the Narrator states that the portcullis isn't dropped properly when the go under, and each Adventurer gains a -2 Injury Level that can be reduced by armour.
 
+$~~~$
 
 # [Next (Scale)](<Scale.md>) 
 # [Back (Success Failure)](<Success Failure.md>) 
 
+$~~~$
 
 ### [Way Back (Playing the Game](<Playing the Game - MOC.md>) OR [README)](<../README.md>) 

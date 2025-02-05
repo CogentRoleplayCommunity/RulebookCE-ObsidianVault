@@ -9,6 +9,7 @@ The Character Creation process is the standard method to create new Cogent Chara
 * **[Purchase Equipment:](<Equipment.md>)** Assign Commerce Points, and purchase equipment (weapons, armour, tools, etc).
 * **[Finishing Touches:](<Finishing Touches.md>)** Assign Destiny Points, and Characteristics. Share your Character with your group and Narrator for approval.
 
+$~~~$
 
 # [Next (Character Identity)](<Character Identity.md>) 
 # [Back (Playing the Game)](<Playing the Game - MOC.md>) 
