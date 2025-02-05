@@ -25,7 +25,8 @@ This chapter is for Players.  It contains all the rules needed to play the game.
 * Dice Pools and other critical Game Mechanics
 * Destiny
 
-## [Running the Game](<Running the Game.md>)
+## [Running the Game](<Running the Game/Running the Game - MOC.md>)
+
 
 This chapter is for Narrators.  It contains all the tools needed to make your game sessions run smoothly.
 
