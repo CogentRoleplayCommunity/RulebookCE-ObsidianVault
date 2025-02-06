@@ -66,3 +66,7 @@ This **Rulebook** contains the *Core Rules*, or the basic rules that all *Modifi
 
 The first rule of **Cogent Roleplay**, and the only rule that matters is;
 > The **Story** and **Characters** come first.  Do what work best for them.
+
+$~~~$
+
+# [Back (README)](<README.md>) 

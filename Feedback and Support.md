@@ -58,3 +58,7 @@ The **Cogent Community Project** is built on volunteers.  We ask of all **Cogent
 **Developers:** The **Cogent Community Project** is a community effort, and we are always looking for people to submit ideas for new rules, modification of existing rules, and clarification of old rules.  All submissions must include the Chapter and section they are intended to replace, and be sure to include your name/handle for recognition.
 
 **Homebrew:** The **Cogent Community Catalogue** is a collection of officially recognized **Cogent Roleplay** modules that Narrators are encouraged to add to their game to make **Cogent Roleplay** perfect for their Stories.  All submissions to the **Cogent Community Catalogue** must include what Chapter and section they are building on top of, and be sure to include all names/handles of contributors for recognition.
+
+$~~~$
+
+# [Back (README)](<README.md>) 
