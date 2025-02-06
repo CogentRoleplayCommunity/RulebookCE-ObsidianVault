@@ -42,7 +42,7 @@
 
 Cogent Roleplay is licensed under an **Open License**.  As such you must give Cogent Roleplay *Attribution* acknowledgement on any derived work based on Cogent.  Cogent Roleplay does not prohibit publishers from publishing physical copies of Cogent Roleplay, but does prohibit publishing on behalf of Cogent Roleplay.
 
-1. **Support the Founders:** The Cogent Community Project intends to sell any Cogent Roleplay System content at cost, and any profit will be [Donated](https://www.buymeacoffee.com/tabletoptime) back to Jazza and Shad.
+1. **Support the Founders:** The Cogent Community Project intends to sell any Cogent Roleplay System content at cost, and any profit will be [Donated](<https://www.buymeacoffee.com/tabletoptime>) back to Jazza and Shad.
 2. **Homebrew Content and Mods:** Content created that does not include the Cogent Roleplay System content (including but not limited to, Campaign Settings, Equipment Guides, or Modules to be added to Cogent) are considered the combined owner of the Backlog item Volunteers, and the Project will split any profits equally between Volunteers of any published Backlog item.
 3. **Translations:** Translations of the Cogent Roleplay System will go to the Community Members on a case by case bases to determine if any profits should go to the Founders, or split between the Volunteers of the Translation.
 
