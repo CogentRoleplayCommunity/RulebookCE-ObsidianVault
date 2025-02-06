@@ -22,12 +22,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "README.md",
+                        "file": "Feedback and Support.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "README"
+                      "title": "Feedback and Support"
                     }
                   }
                 ]
@@ -88,7 +88,7 @@
                       },
                       "serial": {
                         "columns": 171,
-                        "data": "$ git status\r\nOn branch main\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Cogent Community Charter.md\r\n\u001b[8Cmodified:   Feedback and Support.md\r\n\u001b[8Cmodified:   Tables and References.md\r\n\u001b[8Cmodified:   Welcome and Introduction.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n$ git add -A \u001b[1D",
+                        "data": "$ git status\r\nOn branch main\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   Cogent Community Charter.md\r\n\u001b[8Cmodified:   Feedback and Support.md\r\n\u001b[8Cmodified:   Tables and References.md\r\n\u001b[8Cmodified:   Welcome and Introduction.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n$ git add -A \r\n$ git commit -m \"Added links...\"     \r\n[main c3030c1] Added links...\r\n 6 files changed, 303 insertions(+), 251 deletions(-)\r\n rewrite .obsidian/workspace.json (79%)\r\n$ git push origin main\r\nEnumerating objects: 17, done.\r\nCounting objects: 100% (17/17), done.\r\nDelta compression using up to 12 threads\r\nCompressing objects: 100% (9/9), done.\r\nWriting objects: 100% (9/9), 1.57 KiB | 1.57 MiB/s, done.\r\nTotal 9 (delta 8), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (8/8), completed with 8 local objects.\r\nTo github.com:CogentRoleplayCommunity/RulebookCE-ObsidianVault.git\r\n   b890133..c3030c1  main -> main\r\n$ git add -A",
                         "rows": 6
                       }
                     }
@@ -248,11 +248,11 @@
   },
   "active": "04770dc5e80f1955",
   "lastOpenFiles": [
+    "Feedback and Support.md",
+    "Cogent Community Charter.md",
     "README.md",
     "Welcome and Introduction.md",
     "Tables and References.md",
-    "Feedback and Support.md",
-    "Cogent Community Charter.md",
     "Running the Game/Actions.md",
     "Running the Game/Chase-Dogfight.md",
     "Running the Game/Barter.md",
